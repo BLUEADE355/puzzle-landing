@@ -1,9 +1,20 @@
+/* Custom styles */
 .hero {
   background: #333 url('https://via.placeholder.com/1200x400') center/cover no-repeat;
   color: #fff;
   padding: 100px 0;
 }
-.feature-icon { /* …중략… */ }
-.cta-btn { /* …중략… */ }
+.feature-icon {
+  font-size: 2rem;
+  margin-bottom: .5rem;
+  color: #007bff;
+}
+.cta-btn {
+  background-color: #ff6f61;
+  color: #fff;
+}
 .comparison-table th,
-.comparison-table td { /* …중략… */ }
+.comparison-table td {
+  vertical-align: middle;
+  text-align: center;
+}
