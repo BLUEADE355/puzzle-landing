@@ -1,0 +1,9 @@
+.hero {
+  background: #333 url('https://via.placeholder.com/1200x400') center/cover no-repeat;
+  color: #fff;
+  padding: 100px 0;
+}
+.feature-icon { /* …중략… */ }
+.cta-btn { /* …중략… */ }
+.comparison-table th,
+.comparison-table td { /* …중략… */ }
